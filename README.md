@@ -19,5 +19,7 @@ https://udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners
 is not really an exercise, but a code-along following the concepts of the next section of the course
 it is a spring-boot with rest API and a more elaborated version of the data layer from Exercise 1.
 
-
+## Exercise 3 - JPA
+Starting to work on JPA, though as yet it was only a Spring JDBC project with minimal JPA wiring.
+Next module it should get the full Hibernate
 
