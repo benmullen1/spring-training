@@ -1,4 +1,4 @@
-#Spring Training Repository
+# Spring Training Repository
 These are all training exercises from the Udemy course titled
 "Become Java Spring Boot Full Stack Developer. Learn Spring Framework, Spring Boot, Spring Data, Docker & AWS"
 
