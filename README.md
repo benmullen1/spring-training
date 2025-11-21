@@ -22,4 +22,11 @@ it is a spring-boot with rest API and a more elaborated version of the data laye
 ## Exercise 3 - JPA
 Starting to work on JPA, though as yet it was only a Spring JDBC project with minimal JPA wiring.
 Next module it should get the full Hibernate
+[http://localhost:8080/h2-console](http://localhost:8080/h2-console) - H2 DB console, schema is coursedb and user is "user"
+
+[http://localhost:8080/courses](http://localhost:8080/courses) - Lists all courses, a simple GET returns the list
+
+[http://localhost:8080/course?name=1](http://localhost:8080/course?name=1) - returns the course with ID 1. ID is auto-generated value starting at 1 
+
+PUT request: http://localhost:8080/course?name=Haskell+Training&author=Bibb+Ribb - this will insert this course name and author name into the DB. You will have to check the /courses page to see if it succeeded
 
