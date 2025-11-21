@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mullen.spring.training</groupId>
-	<artifactId>exercise3</artifactId>
+	<artifactId>exercise3-JDBC</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>exercise3</name>
